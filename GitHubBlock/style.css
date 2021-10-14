@@ -1,0 +1,121 @@
+.container {
+    width: 720px;
+    height: 960px;
+    background-color: gray;
+}
+h1{
+    background-color: gray;
+    text-align: center;
+}
+.main1 {
+    height: 150px;
+    width: 650px;
+    background-color: red;
+    display: flex;
+    align-items:flex-start;
+     /*used only with display: flex* .will prevent the columns from stretching */
+    justify-content: flex-start;
+    padding: 20px;
+    margin: 20px;
+}
+img.octocat {
+    height: 120px;
+    width: 200px;
+    background-color: grey;
+    padding:5px;
+}
+img.puddle {
+    height: 120px;
+    width: 200px;
+    background-color: grey;
+    margin: 5px;
+    padding:5px;
+    /*display: flex;
+    align-items: center;
+    justify-content: flex-end;*/
+}
+img.collabocats{
+    height: 120px;
+    width: 200px;
+    background-color: grey;
+    margin: 5px;
+    padding:5px;
+    /*display: flex;
+    align-items: center;
+    justify-content: flex-end;*/
+}
+.main2 {
+    height: 150px;
+    width: 650px;
+    background-color: pink;
+    display: flex;
+    align-items:flex-start;
+     /*used only with display: flex* .will prevent the columns from stretching */
+    justify-content: center;
+    padding: 20px;
+    margin: 20px;
+}
+img.hula_loop_octodex03{
+    height: 120px;
+    width: 200px;
+    background-color: grey;
+    margin: 5px;
+    padding:5px;
+    /*display: flex;
+    align-items: center;
+    justify-content: flex-end;*/
+}
+img.mona-the-rivetertocat{
+    height: 120px;
+    width: 200px;
+    background-color: grey;
+    margin: 5px;
+    padding:5px;
+    /*display: flex;
+    align-items: center;
+    justify-content: flex-end;*/
+}
+.main3 {
+    height: 150px;
+    width: 650px;
+    background-color: white;
+    display: flex;
+    align-items:flex-start;
+     /*used only with display: flex* .will prevent the columns from stretching */
+    justify-content: flex-start;
+    padding: 20px;
+    margin: 20px;
+}
+img.chellocat{
+    height: 120px;
+    width: 200px;
+    background-color: grey;
+    margin: 5px;
+    padding:5px;
+    /*display: flex;
+    align-items: center;
+    justify-content: flex-end;*/
+}
+img.octoliberty{
+    height: 120px;
+    width: 200px;
+    background-color: grey;
+    margin: 5px;
+    padding:5px;
+    /*display: flex;
+    align-items: center;
+    justify-content: flex-end;*/
+}
+img.monroe{
+    height: 120px;
+    width: 200px;
+    background-color: grey;
+    margin: 5px;
+    padding:5px;
+    /*display: flex;
+    align-items: center;
+    justify-content: flex-end;*/
+}
+.row{
+    display: flex;
+}
